@@ -1,0 +1,12 @@
+{
+  "port": 9901,
+  "file": {
+    "base_dir": "/Users/xuzhiguo/workspace/python/rag_file_server1/src/rag_file_server/file/data",
+    "bucket_list": []
+  },
+  "dir": {
+    "sql_url": "sqlite:////Users/xuzhiguo/workspace/python/rag_file_server1/src/rag_file_server/dir/data/dir.db",
+    "tmp_path": "/Users/xuzhiguo/workspace/python/rag_file_server1/src/rag_file_server/dir/data/tmp"
+  },
+  "tenants_files_root_dir": "__file_mgr__"
+}

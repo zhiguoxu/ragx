@@ -1,0 +1,27 @@
+uvicorn
+pydantic
+fastapi
+sqlalchemy
+sqlmodel
+python-jose
+bcrypt
+passlib
+python-multipart
+starlette
+docling
+celery[redis]
+redis
+pymilvus
+milvus_model
+# bgem3
+tiktoken
+nltk
+httpx
+numpy
+websockets
+sentence-transformers
+# pip uninstall /Users/xuzhiguo/workspace/python/rag_file_server/dist/rag_file_mgr-0.1.1-py3-none-any.whl -y
+# pip install /Users/xuzhiguo/workspace/python/rag_file_server/dist/rag_file_mgr-0.1.1-py3-none-any.whl --force-reinstall
+# pip install /Users/xuzhiguo/workspace/python/auto_flow/dist/auto_flow-0.1.1-py3-none-any.whl --force-reinstall
+# import nltk
+# nltk.download('punkt_tab')

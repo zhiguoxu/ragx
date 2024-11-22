@@ -1,0 +1,13 @@
+{
+  "host": "localhost",
+  "port": 9902,
+  "celery_port": 9903,
+  "sql_url": "sqlite:////Users/xuzhiguo/workspace/python/rag_server1/data/rag.db",
+  "file_server_url": "http://localhost:9901",
+  "tenants_files_root_dir": "__file_mgr__",
+  "default_pdf_parser_url": "http://localhost:9902/api/file_parser/pdf_to_markdown/docling",
+  "milvus_uri": "http://103.177.28.196:19530",
+  "default_splitter_url": "http://localhost:9902/api/vector_store/split_text",
+  "embedding_model_name_or_path": "/Users/xuzhiguo/.cache/huggingface/hub/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/ea78891063587eb050ed4166b20062eaf978037c",
+  "docling_model_path": "/Users/xuzhiguo/.cache/huggingface/hub/models--ds4sd--docling-models/snapshots/2bdc831fd1edeb61e6d0dfc8ae7596b0c30bdff4"
+}

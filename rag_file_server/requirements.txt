@@ -1,0 +1,8 @@
+pydantic
+python-multipart
+sqlalchemy
+sqlmodel
+fastapi
+starlette
+uvicorn
+requests

@@ -1,0 +1,6 @@
+.idea/
+__pycache__/
+src/test/test.ipynb
+src/rag_file_server/file/data
+src/rag_file_server/dir/data
+.DS_Store
